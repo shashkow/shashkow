@@ -1,69 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
+# 👋 Привет! Я Игорь Шашков
 
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="viewport"
-    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
-  <meta name="description" content="Awesome GitHub Profile Readme Templates" />
-  <title>Awesome GitHub Profile Readme Templates</title>
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile)
 
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/style.min.css"
-    type="text/css">
+### Python Backend-разработчик | Веб-разработка | Интеграция API
 
-  <!-- docsify-themeable styles-->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="light">
-  <link rel="stylesheet alternative" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
-    title="dark">
+Я Python-разработчик с опытом создания и интеграции решений для агропромышленного сектора. Моя специализация — проектирование и разработка сервисов для автоматического сбора, обработки и анализа данных. На GitHub делюсь проектами и решениями, в которых использую современные технологии и подходы для создания надежных и производительных приложений.
 
-  <style>
-    .sidebar-nav li>a[href^="/"]:not([href*="?id="]),
-    .sidebar-nav li>a[href^="/"]:not([href*="?id="])~ul a,
-    .sidebar-nav li>a[href^="#/"]:not([href*="?id="]),
-    .sidebar-nav li>a[href^="#/"]:not([href*="?id="])~ul a {
-      padding: 0;
-    }
+---
 
-    .sidebar-nav li.collapse>a[href^="/"]:not([href*="?id="]):not(:only-child),
-    .sidebar-nav li.collapse>a[href^="#/"]:not([href*="?id="]):not(:only-child),
-    .sidebar-nav li.active>a[href^="/"]:not([href*="?id="]):not(:only-child),
-    .sidebar-nav li.active>a[href^="#/"]:not([href*="?id="]):not(:only-child) {
-      background: transparent;
-    }
-  </style>
-</head>
+### 🛠️ Навыки и технологии
 
-<body>
-  <div id="app">Please wait...</div>
+- **Языки и фреймворки**: Python, Flask, FastAPI, JavaScript
+- **Базы данных**: SQLite, PostgreSQL, Redis
+- **Инструменты и среды**: Docker, Git, PyCharm, Nginx
+- **Другие навыки**: REST API, микросервисная архитектура, многопоточная обработка данных, веб-разработка (HTML, CSS)
 
-  <script>
-    window.$docsify = {
-      search: [
-        '/_sidebar',
-      ],
+---
 
-      name: 'Awesome Github Profile Readme Templates',
-      basePath: "https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/",
-      loadSidebar: true,
-      auto2top: true,
-      sidebarDisplayLevel: 1,
-    }
-  </script>
+### 📌 Опыт и достижения
 
+- **Микросервисы и API**: Разработка API для интеграции с внутренними и внешними системами, создание системы мониторинга и логирования для отслеживания состояния сервисов.
+- **Производительность**: Настройка многопоточной обработки данных, оптимизация и тестирование производительности.
+- **UI и боты**: Разработка Telegram-бота и пользовательских интерфейсов для отображения аналитики данных.
+- **Безопасность и деплой**: Обеспечение безопасности данных, настройка аутентификации, деплой и поддержка контейнеризированных приложений.
 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+---
 
-  <!-- plugins -->
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"
-    type="text/javascript">
-    </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"
-    type="text/javascript">
-    </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-</body>
+### 🚀 Проекты
 
-</html>
+- **Система сбора и анализа данных**: Спроектирована и внедрена надежная система для агропромышленных компаний с гибкой настройкой под различные запросы.
+- **Telegram-бот и система уведомлений**: Бот на основе aiogram для уведомления об инцидентах и обработки платежей через ЮKassa, что значительно сократило время на реагирование и предоставление доступа к контенту.
+
+---
+
+### 📫 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40igorshashkov-blue)](https://t.me/igorshashkov)
+[![Email](https://img.shields.io/badge/Email-eloingc@gmail.com-red)](mailto:eloingc@gmail.com)
+
+---
+
+Этот README поможет вам получить представление обо мне как о разработчике и о моем подходе к созданию эффективных решений. Открыт для новых проектов и интересных задач в сфере разработки!
